@@ -31,6 +31,7 @@ Git: https://github.com/Arsen-Grigor/Budget-Tracker
 `POST /api/auth/login`
 
 `{`
+
     `"username": "admin",`
     
     `"password": "Admin123!"`
