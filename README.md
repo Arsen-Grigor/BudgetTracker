@@ -1,7 +1,7 @@
 ## Budget Tracker
 
 A RESTful API for personal budget tracking and expense management. Implements Clean Architecture, SOLID principles, JWT authentication, logging, and MySQL database management with Entity Framework Core.
-Git: https://github.com/Arsen-Grigor/Budget-Tracker
+Git: https://github.com/Arsen-Grigor/BudgetTracker
 
 ### Prerequisites
 
