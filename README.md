@@ -3,8 +3,7 @@
 A RESTful API for personal budget tracking and expense management. Implements Clean Architecture, SOLID principles, JWT authentication, logging, and MySQL database management with Entity Framework Core.
 Git: https://github.com/Arsen-Grigor/BudgetTracker
 
-<sub>*I’d be glad if you might also take a look at another project built on the Clean Architecture principle.*</sub>
-
+<sub>*I’d be glad if you might also take a look at another project built on the Clean Architecture principle.*</sub><br>
 <sub>https://github.com/Arsen-Grigor/Meeting-Scheduler</sub>
 
 ### Prerequisites
