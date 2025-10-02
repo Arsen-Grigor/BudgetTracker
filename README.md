@@ -4,7 +4,7 @@ A RESTful API for personal budget tracking and expense management. Implements Cl
 Git: https://github.com/Arsen-Grigor/BudgetTracker
 
 <sub>*I’d be glad if you might also take a look at another project built on the Clean Architecture principle.*</sub>
-<sub>https://github.com/Arsen-Grigor/Meeting-Scheduler.git</sub>
+
 <sub>https://github.com/Arsen-Grigor/Meeting-Scheduler</sub>
 
 ### Prerequisites
